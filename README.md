@@ -1,6 +1,6 @@
 # Illustration :camera:
 
-![SimpleUIScreen](resources/ARfurniture.png)
+![SimpleUIScreen](resources/ARfurniture.jpeg)
 
 # Description :page_with_curl:
 
